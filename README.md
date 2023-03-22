@@ -12,8 +12,8 @@ TIPS: 可点击仓库的“Use this template”在仓库的原基础上创建私
 * 集成哪吒探针，可以自由选择是否安装
 * 部署完成如发现不能上网，请检查域名是否被墙，可使用 Cloudflare CDN 或者 worker 解决。
 
-## 客户端配置
-添加节点如图
+## 客户端配置       添加节点如图
+
 ![image](https://user-images.githubusercontent.com/127391868/227061338-c4a75463-9b78-462c-9b9b-d69e1518637d.png)
 
 
